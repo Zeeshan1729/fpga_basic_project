@@ -1,11 +1,10 @@
-
+//hello
 module top(
 
     input clk,
     input [15:8] SW,
 
-    output [6:0] seg,
-    output [7:0] an,
+     output [7:0] an,
     output [15:0] LED
 
 );
